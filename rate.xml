@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rate.xsl"?>
+<tabel>
+<tabel>
+    <rate>Telefon-Analiza</rate>
+    <procent>Analize setate / Telefoane date</procent>
+</tabel>
+<tabel>
+    <rate>Analiza-Consultant</rate>
+    <procent>Consultate setate / Analize setate</procent>
+</tabel>
+<tabel>
+    <rate>Consultant-Oferte</rate>
+    <procent>Oferte / Consultante setate</procent>
+</tabel>
+</tabel>
+
